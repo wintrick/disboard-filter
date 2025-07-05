@@ -10,7 +10,12 @@
 // @icon         https://disboard.org/favicon.ico
 // @grant        none
 // @noframes
+// @updateURL    https://raw.githubusercontent.com/wintrick/disboard-filter/main/disboard-filter.user.js
+// @downloadURL  https://raw.githubusercontent.com/wintrick/disboard-filter/main/disboard-filter.user.js
+// @homepage     https://github.com/wintrick/disboard-filter
+// @supportURL   https://github.com/wintrick/disboard-filter/issues
 // ==/UserScript==
+
 
 (function () {
     'use strict';
