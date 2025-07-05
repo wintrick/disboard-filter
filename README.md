@@ -16,6 +16,7 @@ A user script that filters out Discord servers on [Disboard.org](https://disboar
 Click below to install with **Tampermonkey** or any userscript manager:
 
 [![Install Script](https://img.shields.io/badge/Install%20Script-Disboard%20Filter-brightgreen?style=for-the-badge&logo=greasyfork)](https://github.com/wintrick/disboard-filter/raw/main/disboard-filter.user.js)
+[![Install from GreasyFork](https://img.shields.io/badge/Install%20on-GreasyFork-red?style=for-the-badge&logo=greasyfork)](https://greasyfork.org/en/scripts/541697-disboard-filter)
 
 ---
 
